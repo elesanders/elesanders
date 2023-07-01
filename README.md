@@ -1,5 +1,5 @@
 ### Hi
-I am a soon-to-be software engineer at JP Morgan, starting Ocotber/2023. I am currently in the Tech Connect Programme, which aims to help students from non-CS backgrounds to work in tech.
+I am a soon-to-be software engineer at JP Morgan, starting Ocotber/2023. I am currently in the Tech Connect Programme, doing a full-stack web development bootcamp which aims to help students from non-CS backgrounds to work in tech.
 
 I am a Chemical Engineering graduate and an ex-PhD candidate. I have worked in chocolate R&D, in steel manufacturing and in trading, so I am interested in tech applications in all these sectors.
 
